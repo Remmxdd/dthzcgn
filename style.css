@@ -17,3 +17,14 @@ body{
 	background-wigth:100%
 	background-heigth:100%
 }
+.chlen {
+    background: linear-gradient(to left,#fffa00 50%,#fffa00 50%);
+}
+
+.sisi {
+    width: 96%;
+    margin: 0 auto;
+    background-color: #414141;
+    height: 100%;
+
+}
